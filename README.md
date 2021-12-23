@@ -1,16 +1,15 @@
 ### Hi there 👋
+🔭 I’m currently working on [Macro Deck 2 C# Plugins](https://github.com/SuchByte/Macro-Deck)
 
-<!--
-**RecklessBoon/RecklessBoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍👩‍👦‍👦 I have a family of 4 which includes my wife and our two sons
 
-Here are some ideas to get you started:
+💡 My hobbies include:
+- 🎮 gaming
+- 🎬 streaming/content creation
+- 🖨 3d printing
+- 🎲 D&D'ing
+- ♾ a ton else
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 How to reach me: RecklessBoon@gmail.com
+
+😄 Pronouns: He/Him
