@@ -32,4 +32,6 @@ You've made it to my profile. Take a load off and read some tidbits about me if 
 
 📫 How to reach me: RecklessBoon@gmail.com
 
+📺 You can watch my content at: https://www.youtube.com/channel/UC02FHQsEIb9d6gPXS8387TA
+
 😄 Pronouns: He/Him
