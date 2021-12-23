@@ -3,6 +3,8 @@
 
 👨‍👩‍👦‍👦 I have a family of 4 which includes my wife and our two sons
 
+⌨ I work as a Team Lead Web App Developer for my 9-5
+
 💡 My hobbies include:
 - 🎮 gaming
 - 🎬 streaming/content creation
