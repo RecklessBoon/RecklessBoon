@@ -32,6 +32,8 @@ You've made it to my profile. Take a load off and read some tidbits about me if 
 
 📫 How to reach me: RecklessBoon@gmail.com
 
-📺 You can watch my content at: [RecklessBoon - YouTube](https://www.youtube.com/channel/UC02FHQsEIb9d6gPXS8387TA)
+📺 You can watch my content at: 
+  - Gaming | [RecklessBoon - YouTube](https://www.youtube.com/channel/UC02FHQsEIb9d6gPXS8387TA)
+  - Tutorials | [Boon's Guide - YouTube](https://youtube.com/channel/UCi8N73K0K49Qgclug0Zb5Pg)
 
 😄 Pronouns: He/Him
